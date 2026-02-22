@@ -29,36 +29,58 @@
 ## Struktura projekta
 
 berza/
+
 ├── src/
+
 │   └── berza/
+
 │       ├── common/          ← Deljene klase 
+
 │       │   ├── FinancialInstrument.java
+
 │       │   ├── Order.java
+
 │       │   ├── Trade.java
+
 │       │   ├── MarketUpdate.java
+
 │       │   ├── ClientAccount.java
+
 │       │   └── ExchangeService.java   ← RMI interfejs
+
 │       ├── server/
+
 │       │   ├── ExchangeServer.java    ← MAIN klasa servera
+
 │       │   ├── ExchangeServiceImpl.java
+
 │       │   ├── MarketEngine.java
+
 │       │   ├── OrderBook.java
+
 │       │   ├── TcpMarketServer.java
+
 │       │   ├── TcpClientHandler.java
+
 │       │   ├── TradeArchiver.java
+
 │       │   └── SimulationClock.java
+
 │       └── client/
+
 │           ├── ExchangeClient.java    ← MAIN klasa klijenta
+
 │           ├── AutoTraderLauncher.java ← MAIN klasa botova
+
 │           ├── AutoTrader.java
+
 │           ├── TcpMarketReceiver.java
+
 │           ├── MarketDisplay.java
+
 │           └── ConsoleColors.java
-├── bin/                   ← Kompajlirani .class fajlovi 
-├── build.bat              ← Kompajliranje
-├── run_server.bat         ← Pokretanje servera
-├── run_client.bat         ← Pokretanje klijenta
-└── run_bots.bat           ← Pokretanje botova
+├── bin/           
+
 
 
 ## Pokretanje u Eclipse-u
