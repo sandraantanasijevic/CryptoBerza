@@ -103,19 +103,34 @@ berza/
 ## Cene instrumenata
 
 | Simbol | Naziv | Cena (USD) |
+
 {"BTC",  "Bitcoin",          67383.0},
+
 {"ETH",  "Ethereum",          1946.0},
+
 {"BNB",  "BNB",                614.0},
+
 {"SOL",  "Solana",             83.0},
+
 {"XRP",  "XRP",                  1.3},
+
 {"ADA",  "Cardano",              0.2},
+
 {"AVAX", "Avalanche",            8.8},
+
 {"DOGE", "Dogecoin",             0.38},
+
 {"DOT",  "Polkadot",             1.3},
+
 {"MATIC","Polygon",              0.52},
+
 {"LINK", "Chainlink",           8.7},
+
 {"UNI",  "Uniswap",             3.4},
+
 {"LTC",  "Litecoin",            53.0},
+
 {"ATOM", "Cosmos",               2.2},
+
 {"NEAR", "NEAR Protocol",        1.0},
 
