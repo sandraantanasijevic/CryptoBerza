@@ -26,7 +26,7 @@
 │  │  ExchangeClient │    │  AutoTraderLauncher  │    │
 │  │  (interaktivni) │    │  (5 bot klijenata)   │    │
 │  └─────────────────┘    └──────────────────────┘    │
-
+└─────────────────────────────────────────────────────┘
 ```
 ## Struktura projekta
 
